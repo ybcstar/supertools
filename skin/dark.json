@@ -1,0 +1,14 @@
+{
+  "name": "Dark",
+  "theme": "darkly",
+  "colors": {
+    "bg": "#111111",
+    "fg": "#ffffff",
+    "accent": "#ff5555",
+    "card": "#1e1e1e"
+  },
+  "fonts": {
+    "title": { "family": "Segoe UI", "size": 24, "weight": "bold" },
+    "card":  { "family": "Segoe UI", "size": 14 }
+  }
+}

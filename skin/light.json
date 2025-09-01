@@ -1,0 +1,14 @@
+{
+  "name": "Light",
+  "theme": "flatly",
+  "colors": {
+    "bg": "#ffffff",
+    "fg": "#212529",
+    "accent": "#007bff",
+    "card": "#f8f9fa"
+  },
+  "fonts": {
+    "title": { "family": "Segoe UI", "size": 24, "weight": "bold" },
+    "card":  { "family": "Segoe UI", "size": 14 }
+  }
+}
